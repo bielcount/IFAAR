@@ -1,3 +1,4 @@
+//2. Crie um programa que preencha automaticamente (use uma estrutura de repetição) um vetor numérico com 10 posições, conforme abaixo(vide pdf de ecercicios):
 public class ex02 {
 
     public static void main(String[] args) {
